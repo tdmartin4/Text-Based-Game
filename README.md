@@ -8,11 +8,15 @@ In order to demonstrate functional programming, we created a text based game
 ## How to run the game
 If you do not have it installed, use Homebrew to install SWI-Prolog using the following command
 
-''brew install swi-prolog''
+```
+brew install swi-prolog
+```
 
 After navigating to the directory with the downloaded document, run the following command
 
-''swipl -s password_protected.pl''
+```
+swipl -s password_protected.pl
+```
 
 Once the program is running, type "main." to begin the game.
 
